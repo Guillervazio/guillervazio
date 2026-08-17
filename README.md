@@ -1,16 +1,41 @@
-## Hi there 👋
+# Carlos Guillermo Ojeda Ovelar
 
-<!--
-**Guillervazio/guillervazio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer in Aachen, Germany. Nine years building production systems, seven of them in C# and .NET.
 
-Here are some ideas to get you started:
+I work on the parts of a system that have to keep running: service boundaries, data models, asynchronous processing, and the tests that let you change any of it without holding your breath.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I build with
+
+- **Backend .NET** — C#, .NET 8, .NET Core, .NET Framework, Entity Framework Core, ASP.NET MVC, LINQ, Hangfire
+- **Architecture** — microservices on Clean Architecture and Domain-Driven Design, REST API design, RabbitMQ for asynchronous messaging
+- **Testing** — TDD with XUnit, NSubstitute and FluentAssertions. I have set the testing standard on a backend that had none, and mentored the team into keeping it
+- **Delivery** — GitHub Actions, Jenkins, Azure DevOps, Trunk Based Development, production observability in Grafana and New Relic
+- **Data** — SQL Server (stored procedures, functions, views, database-first modelling), PostgreSQL, MongoDB
+
+### Where that comes from
+
+Roles across Paraguay, the United States, Latin America and Germany, in telecommunications, financial services, insurance, banking, agriculture and travel. Two I would point at:
+
+**ERP development at Microtech S.A. (2017–2022).** Built the core financial module with the team, which raised end-user productivity by 80% and cut monthly fixed expenses by 10%. Led the payment transactions manager module: SQL Server stored procedures and functions on the critical path, RabbitMQ handling the queues between processing stages.
+
+**journaway GmbH (2024–2026).** Backend systems on .NET 8 and Entity Framework Core, structured as microservices on Clean Architecture, plus the introduction of production observability, first with Grafana and later New Relic.
+
+### About the repositories here
+
+Almost everything I have shipped belongs to an employer, so it is not on this profile. What is public here is practice and study work: Clean Architecture and distributed-systems references I forked to read through, a CRUD app on .NET with an Angular frontend, and small things in Go and JavaScript.
+
+I would rather say that plainly than present ten side repositories as a portfolio. If you want to see how I approach a real problem, ask me to walk you through one. That conversation tells you more than a repository tour.
+
+### Currently
+
+Working daily with **Claude Code**, including my own skills and slash-command workflows built on top of it. I review what it produces before anything lands.
+
+Open to backend roles, remote or around Aachen. Authorized to work in Germany without restriction.
+
+### Languages
+
+Spanish and Guaraní (native) · English (professional working) · German (A2, in progress)
+
+### Reach me
+
+[LinkedIn](https://www.linkedin.com/in/guillermo-ojeda-ovelar-developerpy/)
