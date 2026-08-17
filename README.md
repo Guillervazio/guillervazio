@@ -20,11 +20,17 @@ Roles across Paraguay, the United States, Latin America and Germany, in telecomm
 
 **journaway GmbH (2024–2026).** Backend systems on .NET 8 and Entity Framework Core, structured as microservices on Clean Architecture, plus the introduction of production observability, first with Grafana and later New Relic.
 
-### About the repositories here
+### Built on my own
 
-Almost everything I have shipped belongs to an employer, so it is not on this profile. What is public here is practice and study work: Clean Architecture and distributed-systems references I forked to read through, a CRUD app on .NET with an Angular frontend, and small things in Go and JavaScript.
+**Inventory management system** for a company in Paraguay. Stock movements in and out, built solo from scratch: .NET on the backend, TypeScript and Node on the front.
 
-I would rather say that plainly than present ten side repositories as a portfolio. If you want to see how I approach a real problem, ask me to walk you through one. That conversation tells you more than a repository tour.
+The repository is private because the code is a client's, but **I can grant read access on request**. If you are evaluating me and want to read real code rather than exercises, ask and I will open it.
+
+### About the public repositories here
+
+Almost everything else I have shipped belongs to an employer, so it is not on this profile. What is public here is practice and study work: Clean Architecture and distributed-systems references I forked to read through, a CRUD app on .NET with an Angular frontend, and small things in Go and JavaScript.
+
+I would rather say that plainly than present a handful of side repositories as a portfolio.
 
 ### Currently
 
