@@ -47,7 +47,7 @@ Open to senior backend roles, remote or around Aachen. Available immediately, wi
 
 ### Languages
 
-Spanish and Guaraní (native) · English (C1) · German (A2, taking lessons)
+Spanish and Guaraní (native) · English (C1) · German (B1, taking lessons)
 
 ### Reach me
 
